@@ -19,13 +19,35 @@
 
 ---
 
-```yaml
-projects:
-  - emnist-cnn-web-recognizer     # CNN · FastAPI · Handwriting recognition
-  - Emotion-Detection-Chatbot-NLU # NLU · Chatbot · Emotion AI
-  - rnn-vs-lstm-sentiment         # RNN vs LSTM · Sentiment analysis
-  - Cancer-Data-Classification    # Decision Tree · Random Forest · Medical ML
-```
+<div align="center">
+
+### ◆ &nbsp; P R O J E C T S &nbsp; ◆
+
+<br>
+
+[![emnist](https://img.shields.io/badge/01%20·%20emnist--cnn--web--recognizer-0a0a2e?style=for-the-badge&logo=tensorflow&logoColor=00f0ff)](https://github.com/faridabbasov-glitch/emnist-cnn-web-recognizer)
+&nbsp;
+`CNN` `FastAPI` `Computer Vision`
+
+<br>
+
+[![emotion](https://img.shields.io/badge/02%20·%20Emotion--Detection--Chatbot--NLU-0a0a2e?style=for-the-badge&logo=dialogflow&logoColor=00f0ff)](https://github.com/faridabbasov-glitch/Emotion-Detection-Chatbot-NLU-Project-)
+&nbsp;
+`NLU` `Deep Learning` `NLP`
+
+<br>
+
+[![rnn](https://img.shields.io/badge/03%20·%20rnn--vs--lstm--sentiment-0a0a2e?style=for-the-badge&logo=keras&logoColor=00f0ff)](https://github.com/faridabbasov-glitch/rnn-vs-lstm-sentiment)
+&nbsp;
+`RNN` `LSTM` `Sentiment Analysis`
+
+<br>
+
+[![cancer](https://img.shields.io/badge/04%20·%20Cancer--Data--Classification-0a0a2e?style=for-the-badge&logo=scikit-learn&logoColor=00f0ff)](https://github.com/faridabbasov-glitch/Cancer-Data-Classification-using-Decision-Trees-and-Random-Forest)
+&nbsp;
+`Decision Tree` `Random Forest` `Medical ML`
+
+</div>
 
 ---
 

@@ -55,7 +55,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=faridabbasov-glitch&color=00f0ff&style=flat-square&label=PROFILE+VIEWS)
 &nbsp;
-![](https://img.shields.io/badge/he%2Fhim-000011?style=flat-square&color=0a0a2e&labelColor=0a0a2e&logoColor=00f0ff)
+
 
 <br>
 

@@ -37,6 +37,12 @@
 
 <br>
 
+[![rag](https://img.shields.io/badge/02%20·%20Azerbaijan--AI--Strategy--RAG--System-0a0a2e?style=for-the-badge&logo=openai&logoColor=00f0ff)](https://github.com/faridabbasov-glitch/RAG_AZ_PROJECT)
+&nbsp;
+`RAG` `FAISS` `Reranking`
+
+<br>
+
 [![rnn](https://img.shields.io/badge/03%20·%20rnn--vs--lstm--sentiment-0a0a2e?style=for-the-badge&logo=keras&logoColor=00f0ff)](https://github.com/faridabbasov-glitch/rnn-vs-lstm-sentiment)
 &nbsp;
 `RNN` `LSTM` `Sentiment Analysis`

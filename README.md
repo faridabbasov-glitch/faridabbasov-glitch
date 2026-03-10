@@ -21,7 +21,7 @@
 
 <div align="center">
 
-### ◆ &nbsp; P R O J E C T S &nbsp; ◆
+###  &nbsp; P R O J E C T S &nbsp; 
 
 <br>
 
@@ -31,25 +31,26 @@
 
 <br>
 
-[![emotion](https://img.shields.io/badge/02%20·%20Emotion--Detection--Chatbot--NLU-0a0a2e?style=for-the-badge&logo=dialogflow&logoColor=00f0ff)](https://github.com/faridabbasov-glitch/Emotion-Detection-Chatbot-NLU-Project-)
-&nbsp;
-`NLU` `Deep Learning` `NLP`
-
-<br>
-
-[![rag](https://img.shields.io/badge/02%20·%20Azerbaijan--AI--Strategy--RAG--System-0a0a2e?style=for-the-badge&logo=openai&logoColor=00f0ff)](https://github.com/faridabbasov-glitch/RAG_AZ_PROJECT)
-&nbsp;
-`RAG` `FAISS` `Reranking`
-
-<br>
-
-[![rnn](https://img.shields.io/badge/03%20·%20rnn--vs--lstm--sentiment-0a0a2e?style=for-the-badge&logo=keras&logoColor=00f0ff)](https://github.com/faridabbasov-glitch/rnn-vs-lstm-sentiment)
+[![rnn](https://img.shields.io/badge/02%20·%20rnn--vs--lstm--sentiment-0a0a2e?style=for-the-badge&logo=keras&logoColor=00f0ff)](https://github.com/faridabbasov-glitch/rnn-vs-lstm-sentiment)
 &nbsp;
 `RNN` `LSTM` `Sentiment Analysis`
 
 <br>
 
-[![cancer](https://img.shields.io/badge/04%20·%20Cancer--Data--Classification-0a0a2e?style=for-the-badge&logo=scikit-learn&logoColor=00f0ff)](https://github.com/faridabbasov-glitch/Cancer-Data-Classification-using-Decision-Trees-and-Random-Forest)
+[![rag](https://img.shields.io/badge/03%20·%20Azerbaijan--AI--Strategy--RAG--System-0a0a2e?style=for-the-badge&logo=googledocs&logoColor=00f0ff)](https://github.com/faridabbasov-glitch/RAG_AZ_PROJECT)
+&nbsp;
+`RAG` `FAISS` `Reranking`
+
+<br>
+
+
+[![emotion](https://img.shields.io/badge/04%20·%20Emotion--Detection--Chatbot--NLU-0a0a2e?style=for-the-badge&logo=dialogflow&logoColor=00f0ff)](https://github.com/faridabbasov-glitch/Emotion-Detection-Chatbot-NLU-Project-)
+&nbsp;
+`NLU` `Deep Learning` `NLP`
+
+<br>
+
+[![cancer](https://img.shields.io/badge/05%20·%20Cancer--Data--Classification-0a0a2e?style=for-the-badge&logo=scikit-learn&logoColor=00f0ff)](https://github.com/faridabbasov-glitch/Cancer-Data-Classification-using-Decision-Trees-and-Random-Forest)
 &nbsp;
 `Decision Tree` `Random Forest` `Medical ML`
 
